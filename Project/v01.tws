@@ -26,20 +26,20 @@
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\watch.c" 
 [WORKSPACE_FILE_STATES]
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\asm\sect30.inc" 0 0 1627 659 0 2 
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\common.h" 0 0 711 350 0 0 
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\hardware.h" 30 30 1289 434 0 8 
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\motor.h" 120 120 1289 434 0 11 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\common.h" -9 -36 1620 659 1 0 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\hardware.h" 0 0 1289 434 0 8 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\motor.h" 0 0 1289 434 0 11 
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\motor_servor.h" 0 0 1289 434 0 7 
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\motor_xyaxsi.h" 60 60 1289 434 0 9 
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\motor_yjaxsi.h" 180 180 1289 434 0 6 
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\sfr62p.h" 90 90 1429 434 0 3 
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\action.c" 180 180 1289 434 0 13 
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\communication.c" -9 -36 704 359 1 15 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\motor_xyaxsi.h" 0 0 1289 434 0 9 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\motor_yjaxsi.h" 0 0 1289 434 0 6 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\sfr62p.h" 0 0 1429 434 0 3 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\action.c" 0 0 1289 434 0 13 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\communication.c" 0 0 704 359 0 15 
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\main.c" 0 0 1289 434 0 14 
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\motor.c" 0 0 1620 659 0 12 
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\motor_servor.c" 30 30 1009 272 0 1 
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\motor_xyaxsi.c" 90 90 1289 434 0 10 
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\system.c" 150 150 979 332 0 5 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\motor_servor.c" 0 0 1009 272 0 1 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\motor_xyaxsi.c" 0 0 1289 434 0 10 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\system.c" 0 0 1140 527 0 5 
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\watch.c" 0 0 711 350 0 4 
 [LOADED_PROJECTS]
 "XZJT_ZF" 

@@ -57,8 +57,9 @@
 [WINDOW_POSITION_STATE_DATA_VD3]
 [WINDOW_POSITION_STATE_DATA_VD4]
 [WINDOW_Z_ORDER]
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\communication.c" 
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\common.h" 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\system.c" 
+"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\communication.c" 
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\motor_servor.c" 
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\motor.c" 
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\main.c" 
@@ -70,7 +71,6 @@
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\motor_servor.h" 
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\motor_yjaxsi.h" 
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\watch.c" 
-"E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\src\system.c" 
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\inc\sfr62p.h" 
 "E:\zla_git\chnki\chnki_xzjt\mbj_test(ZFXZJT)-20190322-debug\Source\asm\sect30.inc" 
 [TARGET_NAME]
